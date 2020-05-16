@@ -1,0 +1,3 @@
+[submodule "plusminus-grid-puzzle"]
+	path = plusminus-grid-puzzle
+	url = https://github.com/rikvanlieshout/plusminus-grid-puzzle
